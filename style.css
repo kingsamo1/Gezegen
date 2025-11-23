@@ -134,6 +134,7 @@ nav a:hover {
   gap: 30rem; /* خفّضت الفراغ من 30rem إلى 2rem */
   background-image: linear-gradient(to top, rgb(255, 255, 255), rgb(203, 238, 221));
   overflow: hidden;
+  
 }
 
 /* الصورة الزخرفية فوق ال-gradient */
@@ -175,7 +176,7 @@ nav a:hover {
 
 .hometext a.btn{
     width: 13rem;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     text-align: center;
     
     color: #ffffff;
@@ -229,7 +230,7 @@ nav a:hover {
   align-items: center;    /* محاذاة العناصر في الوسط أفقيًا */
   background: #e3e6e1;
   max-width: 20rem;
-  height: 390px;
+  height: 410px;
     padding: 0;
   justify-content: flex-start; /* يخلي العناصر تبدأ من يسار الحاوية */
   box-shadow: 0 4px 20px rgba(0,0,0,0.3);
@@ -248,7 +249,7 @@ nav a:hover {
 
 
 .left-set img {
-    width: 15rem;
+    width: 16rem;
     object-fit: cover; /* يكبر الصورة ويملأ الإطار بدون خروج */
   display: block;
     
@@ -327,6 +328,7 @@ nav a:hover {
   max-width: 400px;
     color: #222;
     font-weight: 600;
+    padding: 0 1rem 0 1rem;
 
 }
 
@@ -474,7 +476,7 @@ nav a:hover {
 }
 
   .home{
-    height: 90vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center; /* يضع المحتوى في المنتصف عمودياً */
