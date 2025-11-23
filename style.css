@@ -168,9 +168,8 @@ nav a:hover {
 
 .hometext p{
     margin: 0;
-    font-size: 2.2rem;
+    font-size: 2rem;
     color: #0b4209;
-    line-height: 1.3;
     font-weight: 700;
 }
 
@@ -178,7 +177,7 @@ nav a:hover {
     width: 13rem;
     font-size: 1.8rem;
     text-align: center;
-    margin-top: 1rem;
+    
     color: #ffffff;
     background-color: #056839;
      transition: background .15s, color .15s;
@@ -265,12 +264,10 @@ nav a:hover {
 
 .right-set h3 {
     font-size: 2.1rem;
-    margin-bottom: 0.5rem;
 }
 
 .right-set p {
     font-size: 1.4rem;
-    margin-bottom: 0.5rem;
 }
 
 .botn {
