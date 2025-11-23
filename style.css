@@ -488,7 +488,14 @@ nav a:hover {
   .hometext{
     text-align: center; /* يجعل الزر والنص بمحاذاة وسط أفقياً */
     align-items: center;
+    padding-bottom: 5rem;
   }
+
+.item {
+  height: 430px;
+}
+
+
 }
 
 
