@@ -228,8 +228,8 @@ nav a:hover {
   gap: 1rem;              /* مسافة بين العناصر */
   align-items: center;    /* محاذاة العناصر في الوسط أفقيًا */
   background: #e3e6e1;
-  max-width: 19rem;
-  height: 25rem;
+  max-width: 20rem;
+  height: 390px;
     padding: 0;
   justify-content: flex-start; /* يخلي العناصر تبدأ من يسار الحاوية */
   box-shadow: 0 4px 20px rgba(0,0,0,0.3);
@@ -248,7 +248,7 @@ nav a:hover {
 
 
 .left-set img {
-    width: 14rem;
+    width: 15rem;
     object-fit: cover; /* يكبر الصورة ويملأ الإطار بدون خروج */
   display: block;
     
