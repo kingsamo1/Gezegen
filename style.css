@@ -31,7 +31,7 @@
     border-bottom: 5px solid #eee;
     background: #f7f5f5;
     height: 12vh;
-    margin-top: 5rem;
+    margin-top: 3rem;
     margin-left: auto;
     margin-right: auto;
     position: sticky;
@@ -130,7 +130,7 @@ nav a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
- transform: translateY(-12rem);
+ transform: translateY(-15rem);
   gap: 30rem; /* خفّضت الفراغ من 30rem إلى 2rem */
   background-image: linear-gradient(to top, rgb(255, 255, 255), rgb(203, 238, 221));
   overflow: hidden;
@@ -214,7 +214,7 @@ nav a:hover {
 
 .single-item{
         background-color: #ffffff;
-    height: 900vh;
+    height: 1000vh;
     display: flex;
     flex-direction: column;
     align-items: center;
