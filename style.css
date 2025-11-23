@@ -21,6 +21,7 @@
     --radius: 12px;
 }
 
+
   .nav {
     display: flex;
     align-items: center;
@@ -30,7 +31,7 @@
     border-bottom: 5px solid #eee;
     background: #f7f5f5;
     height: 12vh;
-    margin-top: 2rem;
+    margin-top: 5rem;
     margin-left: auto;
     margin-right: auto;
     position: sticky;
@@ -130,7 +131,7 @@ nav a:hover {
   align-items: center;
   justify-content: center;
   height: 5vh;
- transform: translateY(-9rem);
+ transform: translateY(-12rem);
   gap: 30rem; /* خفّضت الفراغ من 30rem إلى 2rem */
   background-image: linear-gradient(to top, rgb(255, 255, 255), rgb(203, 238, 221));
   overflow: hidden;
@@ -214,7 +215,7 @@ nav a:hover {
 
 .single-item{
         background-color: #ffffff;
-    height: 965vh;
+    height: 800vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -229,8 +230,8 @@ nav a:hover {
   gap: 1rem;              /* مسافة بين العناصر */
   align-items: center;    /* محاذاة العناصر في الوسط أفقيًا */
   background: #e3e6e1;
-  max-width: 25rem;
-  height: 32rem;
+  max-width: 19rem;
+  height: 25rem;
     padding: 0;
   justify-content: flex-start; /* يخلي العناصر تبدأ من يسار الحاوية */
   box-shadow: 0 4px 20px rgba(0,0,0,0.3);
@@ -249,7 +250,7 @@ nav a:hover {
 
 
 .left-set img {
-    width: 22rem;
+    width: 15rem;
     object-fit: cover; /* يكبر الصورة ويملأ الإطار بدون خروج */
   display: block;
     
@@ -292,6 +293,7 @@ nav a:hover {
   color: #fff;               /* لون النص */
   text-align: center;
   margin-top: 3rem;
+  
   min-height: 80vh;
   justify-content: center;
     align-items: center;
@@ -344,12 +346,12 @@ nav a:hover {
   list-style: none;
   padding: 0;
   margin: 0;
-   text-align: left;
+   text-align: center;
 }
 
 .footer-content li {
   margin: 0.5rem 0;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
 }
 
 .footer-content a {
@@ -888,6 +890,13 @@ nav {
     min-height:  270vh;
     margin-bottom: 10rem;
 }
+
+@media (max-width: 480px) {
+
+
+
+}
+
 }
 
 
