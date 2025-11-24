@@ -231,7 +231,6 @@ nav a:hover {
   max-width: 20rem;
   height: 410px;
     padding: 0;
-  justify-content: flex-start; /* يخلي العناصر تبدأ من يسار الحاوية */
   box-shadow: 0 4px 20px rgba(0,0,0,0.3);
   overflow: hidden;       /* يمنع خروج أي جزء من الصورة */
     border-radius: 12px;
@@ -490,7 +489,6 @@ nav a:hover {
     align-items: center;
     padding-bottom: 5rem;
   }
-
 
 
 
