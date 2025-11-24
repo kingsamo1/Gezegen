@@ -225,7 +225,7 @@ nav a:hover {
 
       display: flex;
   flex-direction: column; /* يجعل العناصر تتكدس عموديًا */
-               /* مسافة بين العناصر */
+  gap: 1rem;              /* مسافة بين العناصر */
   align-items: center;    /* محاذاة العناصر في الوسط أفقيًا */
   background: #e3e6e1;
   max-width: 20rem;
@@ -270,7 +270,7 @@ nav a:hover {
     font-size: 1.4rem;
 }
 
-.botn {
+/* .botn {
     display: inline-block;
     padding: 0.1rem 3rem;
     background-color: #77a590;
@@ -280,7 +280,7 @@ nav a:hover {
     border-radius: 8px;
     transition: background .15s, color .15s;
     transform: translateY(1rem);
-}
+} */
 
   .footer {
   background: #dfe4e2;       /* لون الخلفية */
