@@ -225,7 +225,7 @@ nav a:hover {
 
       display: flex;
   flex-direction: column; /* يجعل العناصر تتكدس عموديًا */
-  gap: 1rem;              /* مسافة بين العناصر */
+               /* مسافة بين العناصر */
   align-items: center;    /* محاذاة العناصر في الوسط أفقيًا */
   background: #e3e6e1;
   max-width: 20rem;
