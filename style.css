@@ -236,8 +236,7 @@ nav a:hover {
   overflow: hidden;       /* يمنع خروج أي جزء من الصورة */
     border-radius: 12px;
      transition: transform 0.3s ease;
-         margin-bottom: 10rem;
-
+     
 
     
 
@@ -496,10 +495,6 @@ nav a:hover {
   height: 430px;
 }
 
-.item {
-    height: 410px;
-
-}
 
 }
 
@@ -832,6 +827,10 @@ nav {
     text-align: center; /* يجعل الزر والنص بمحاذاة وسط أفقياً */
     align-items: center;
   }
+
+  
+
+
 }
 
 @media (min-width: 1024px) and (max-width: 1295px) {
