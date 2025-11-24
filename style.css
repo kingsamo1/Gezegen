@@ -214,11 +214,11 @@ nav a:hover {
 
 .single-item{
         background-color: #ffffff;
-    height: 7000px;
+    height: 200را;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 2rem;
+    gap:10rem;
 }
 
 .item {
