@@ -468,7 +468,7 @@ padding: 8px;
   justify-content: center;
   height: 88vh;
   gap: 2rem; /* خفّضت الفراغ من 30rem إلى 2rem */
-  background-image: linear-gradient(to top, rgb(255, 255, 255), rgb(203, 238, 221));
+  background-image: linear-gradient(to top, rgb(255, 255, 255), rgb(9, 163, 89));
   overflow: hidden;
 }
 
